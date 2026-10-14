@@ -38,3 +38,4 @@ Squoosh is an open-source project that appreciates all community involvement. To
 [squoosh]: https://squoosh.app
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://facebook.com
